@@ -633,7 +633,7 @@ section {
 }
 
 .img-bg1 {
-  background-image: url(/imagenes/El\ quitasol.jpg);
+  background-image: url(/assets/img/misc/el-quitasol.jpg);
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -642,7 +642,7 @@ section {
 }
 
 .img-bg2 {
-  background-image: url(/imagenes/Aquelarre.jpg);
+  background-image: url(/assets/img/misc/aquelarre.jpg);
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -651,7 +651,7 @@ section {
 }
 
 .img-bg3 {
-  background-image: url(/imagenes/FamiliaCarlos.jpg);
+  background-image: url(/assets/img/misc/familia-carlos.jpg);
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -660,7 +660,7 @@ section {
 }
 
 .img-bg4 {
-  background-image: url(/imagenes/Maja.jpg);
+  background-image: url(/assets/img/misc/maja.jpg);
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
